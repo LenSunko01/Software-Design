@@ -1,2 +1,2 @@
-# Software-Design
-Homeworks for Software Design course (HSE spring 2022) 
+# System-Design
+Homeworks for System Design course (HSE spring 2022) 
